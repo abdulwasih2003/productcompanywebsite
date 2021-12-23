@@ -3,7 +3,7 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 body {
-  background-color: whitesmoke;
+  background-color: rgb(31, 29, 29);
   color: #17421d;
 }
 .container {
@@ -21,11 +21,11 @@ body {
   height: 250px;
   text-align: center;
   font-size: 60px;
-  background-image: url("/static/img/banner1.jpg");
+  background-image: url("/static/img/banner.jpg");
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
-  color: #16d1ae;
+  color: #dcdddc;
 }
 
 .menu {
@@ -33,7 +33,7 @@ body {
   width: 100%;
   height: 50px;
   font-size: larger;
-  background-color: #5bb045;
+  background-color: rgb(250, 249, 248);
   text-align: center;
   padding-top: 15px;
   margin: 0px 0px 0px 0px;
@@ -60,8 +60,9 @@ body {
 .content {
   display: block;
   width: 100%;
-  background-color: #cffffd;
+  background-image: url("/static/img/QQQ2.jpg");
   min-height: 500px;
+  background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   border-width: 1px;
   border-color: white;
@@ -70,8 +71,12 @@ body {
 .homecontent {
   min-height: 500px;
   margin: 10px 10px 10px 10px;
+  color: black;
+  display: inline;
 }
 .homecontent h1 {
+  color: white;
+  display: inline;
   text-align: left;
 }
 .homecontent img {
@@ -83,6 +88,7 @@ body {
 
 .contenttext {
   text-align: justify;
+  color: rgb(255, 255, 255);
 }
 
 .productcontent {
@@ -91,6 +97,8 @@ body {
 }
 
 .productcontent h1 {
+  display: inline;
+  color: black;
   text-align: left;
 }
 
@@ -108,10 +116,10 @@ body {
 .productitem img {
   width: 100px;
   height: 100px;
-  display: block;
+  display: inline-block;
 }
 .productitem .itemimage {
-  display: block;
+  display: inline-block;
   margin-left: auto;
   margin-right: auto;
   width: 100px;
@@ -120,16 +128,20 @@ body {
 
 .productitem .itemname {
   display: block;
+  color: rgb(253, 249, 249);
+  font-family: block;
 }
 .productitem .itemprice {
   display: block;
+  color: rgb(255, 255, 255);
+  font-family: block;
 }
 
 .footer {
   display: block;
   width: 100%;
   height: 40px;
-  background-color: #5bb045;
+  background-color: rgb(194, 174, 248);
   text-align: center;
   padding-top: 10px;
   margin: 0px 0px 0px 0px;
