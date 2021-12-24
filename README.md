@@ -472,14 +472,14 @@ body {
 
 ### Home Page:
 
-![output](1.png)
+![output](./images/1.png)
 
 ### Product:
-![output](2.png)
+![output](./images/2.png)
 ### People:
-![output](3.png)
+![output](./images/3.png)
 ### Contact Us:
-![output](4.png)
+![output](./images/4.png)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
