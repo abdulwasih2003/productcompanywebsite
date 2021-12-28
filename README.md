@@ -193,43 +193,42 @@ body {
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Dell Technologies & Private Limited</title>
+    <title>DELL Technologies & Private LTD</title>
     <link rel="stylesheet" href="./css/layout.css" />
-    <link rel="icon" href="./img/ail.png" type="image/x-icon" />
+    <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner"></div>
+      <div class="banner">DELL Technologies & Private LTD</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
         <div class="menuitem"><a href="/static/products.html">Products</a></div>
         <div class="menuitem"><a href="/static/people.html">People</a></div>
         <div class="menuitemselected"><a href="/static/contactus.html">Contact Us</a></div>
-      </div>
+        </div>
       <div class="content">
         <div class="homecontent">
-          <h1>Contact Us:</h1><br><br><br>
-          <h1>Address:</h1><br><br>
+          <h1>About Us</h1>
+          <img src="./img/Building.jpg" alt="Building" />
           <div class="contenttext">
-            332, Dell Technologies Private Limited ,<br>
-            Trunk Road, Porur<br>
-            Chennai-600116.<br>
-          </div><br>
-          <h1>Contact:</h1><br><br>
-          <div class="contenttext">
-              MR.Mark Zukenberg (Marketting Manager):8220125648<br>
-              MR.Thomas Shelby (Operation Manager):6895432145<br>
-              MR.Tyrion (Staff):6365843659<br><br><br>
-          </div>
-          <h1>E-Mail:</h1><br><br>
-          <div class="contenttext">
-              Sales:delltechnologieslimited@gmail.com
+            Dell is an American company that develops, sells, repairs, and supports computers and related products and services, and is owned by its parent company of Dell Technologies. Founded in 1984 by Michael Dell, the company is one of the largest technology corporations in the world, employing more than 165,000 people in the U.S. and around the world.[4][5]
+
+Dell sells personal computers (PCs), servers, data storage devices, network switches, software, computer peripherals, HDTVs, cameras, printers, and electronics built by other manufacturers. The company is well known for its innovations in supply chain management and electronic commerce, particularly its direct-sales model and its "build-to-order" or "configure to order" approach to manufacturing—delivering individual PCs configured to customer specifications.[6][5] Dell was a pure hardware vendor for much of its existence, but with the acquisition in 2009 of Perot Systems, Dell entered the market for IT services. The company has since made additional acquisitions in storage and networking systems, with the aim of expanding their portfolio from offering computers only to delivering complete solutions[buzzword] for enterprise customers.[7][8]
+
+Dell was listed at number 51 in the Fortune 500 list until 2014.[9] Its rank is 34th on the Fortune 500 currently.[10] It is the world's 3rd largest personal computer vendor by unit sales as of January 2021, following Lenovo and HP Inc..[11] Dell is the largest shipper of PC monitors worldwide.[12] Dell is the sixth-largest company in Texas by total revenue, according to Fortune magazine.[13] It is the second-largest non-oil company in Texas (behind AT&T) and the largest company in the Greater Austin area.[14] After going private in 2013, the newly confidential nature of its financial information prevents the company from being ranked by Fortune. It was a publicly traded company (Nasdaq: DELL), as well as a component of the NASDAQ-100 and S&P 500, until it was taken private in a leveraged buyout which closed on October 30, 2013.
+
+In 2015, Dell acquired the enterprise technology firm EMC Corporation; following the completion of the purchase, Dell and EMC became divisions of Dell Technologies. Dell EMC as a part of Dell Technologies focus on data storage, information security, virtualization, analytics, cloud computing and other related products and services
+            <ul>
+              <li>Beyond physical health, cosmetics can help to improve our mood</li>
+              <li>Enhance our appearance and boost our self-esteem</li>
+              <li> They can also help to exhibit personal style </li>
+            </ul>
           </div>
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021  Dell Technologies Private Limited, Developed by Syed Abdul Wasih.
+        Copyright &#169; 2021  DELL Technologies & Private LTD. Developed by Syed Abdul Wasih H 
       </div>
     </div>
   </body>
